@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Krish Shah (temporarily lost main account) 
+# 👋 Hey, I'm Krish Shah
 
 💻 **React Native Developer** | 🚀 Full-Stack Enthusiast | 🎯 Dreaming Big (Hello, Google!)
 
