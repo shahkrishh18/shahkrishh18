@@ -13,6 +13,7 @@
 ---
 
 ### 🧩 Featured Projects
+- 🚑 [AmbuRakshak](https://play.google.com/store/apps/details?id=com.ambuvians.ambuRakshak) - A fast and reliable ambulance booking app built with React Native, designed to connect patients with nearby emergency vehicles in real time. The app ensures quick response through live location tracking, smart route optimization, and instant notifications. 
 - 🛍️ [All-Inclusive Ecommerce Website]() - A modern shopping platform with Admin, Delivery Partner & Consumer modules built with React, Node.js, and MongoDB, focusing on accessibility and performance.
 - 🎬 [MovieTheatre](https://moviemaxtime.netlify.app/) - A seamless ticket-booking experience with real-time seat updates and secure payments.
 
