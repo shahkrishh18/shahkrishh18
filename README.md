@@ -12,6 +12,10 @@
 
 ---
 
+### 🧩 Featured Projects
+- 🛍️ [All-Inclusive Ecommerce Website]() - A modern shopping platform with Admin, Delivery Partner & Consumer modules built with React, Node.js, and MongoDB, focusing on accessibility and performance.
+- 🎬 [MovieTheatre](https://moviemaxtime.netlify.app/) - A seamless ticket-booking experience with real-time seat updates and secure payments.
+
 ### 🌱 What I'm Learning
 - Advanced AI/ML for human-computer interaction
 - Scalable cloud architecture
